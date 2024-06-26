@@ -1,0 +1,5 @@
+// [x] conseguir api del tiempo
+// [x] probar api funciona 
+// [x] interfaz de diseño 
+// [] crear una funcion que busque un pais 
+// [] 
